@@ -1,0 +1,30 @@
+button{
+    border-radius: 10px;
+    font-family: "Major mono display",
+}
+#img{
+    padding-left: 10px;
+
+}
+body{
+    background:linear-gradient(#A1C6EA 0%, #BBD1EA 100%);
+}
+.he1{
+    color:#507DBC;
+}
+label{
+    color:#3772FF;
+}
+
+p{
+    color:#66C3FF;
+}
+button{
+    color:#B10F2E;
+}
+
+.image{
+    width: 50px;
+    height: 50px;
+    padding-left: 10px;
+}
